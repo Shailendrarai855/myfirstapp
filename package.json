@@ -1,0 +1,25 @@
+{
+  "name": "myfirstapp",
+  "version": "1.0.0",
+  "description": "My First app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shailendrarai855/myfirstapp.git"
+  },
+  "keywords": [
+    "myfirstapp"
+  ],
+  "author": "shailendra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shailendrarai855/myfirstapp/issues"
+  },
+  "homepage": "https://github.com/Shailendrarai855/myfirstapp#readme",
+  "devDependencies": {
+    "chalk": "^4.1.0"
+  }
+}
